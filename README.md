@@ -375,7 +375,7 @@ To use "The Honest Bank" project, follow these steps:
 2. Run SQL queries from the Queries and Tasks document to interact with the database.
 3. Explore the database's capabilities and functionalities.
 
-## <a name="contibuting"></a>Contributing 🤝
+## <a name="contributing"></a>Contributing 🤝
 
 We welcome contributions from the community to improve "The Honest Bank." Feel free to submit issues, suggest enhancements, or create pull requests. Together, we can make this project even better! 🌟
 
