@@ -164,7 +164,7 @@ Strategic Planning: For strategic planning purposes, this information can be use
 This query showcases the bank's ability to integrate traditional banking data with modern financial services like cryptocurrency, reflecting "The Honest Bank"'s commitment to innovation and customer service in the digital age.
 
 #### Query 5: [Description of Query 5]
-![Query 5](images/Query5)
+![Query 5](images/Query5.png)
 ##### Description:
 This query selects the CustomerID from the Customer table where there is no existing BranchID that the customer does not have an account in. In other words, it finds customers who have accounts in every branch of the bank.
 
@@ -215,7 +215,7 @@ Branch Comparison: This data is useful for comparing branches against each other
 Overall, Query 7 demonstrates the capability of the database system at "The Honest Bank" to provide detailed workforce analytics that are vital for effective branch management and strategic decision-making.
 
 #### Query 8: [Description of Query 8]
-![Query 8](images/Query7.png)
+![Query 8](images/Query8.png)
 ##### Description:
 The query updates the CreditLimit field in the CreditCard table. It uses a CASE statement to determine the new credit limit based on the balance of the customer's CryptoWallet:
 
@@ -234,7 +234,7 @@ Financial Product Integration: It shows the bank's effort to integrate tradition
 Overall, Query 8 is an example of how "The Honest Bank" may be using automation within its database system to dynamically adjust financial products based on customer activity and balance, demonstrating a sophisticated approach to financial services.
 
 #### Query 9: [Description of Query 9]
-![Query 9](images/Query9)
+![Query 9](images/Query9.png)
 ##### Description:
 This query selects the EmployeeID, ename (which likely stands for the employee's name), and dname (which likely stands for the department name) from the Employee table. It performs a LEFT OUTER JOIN with the Department table, based on a match between Employee.BranchID and Department.DepartmentID.
 
@@ -338,7 +338,7 @@ Security: Stored procedures can provide an additional layer of security, as they
 Overall, Query 14 demonstrates "The Honest Bank's" commitment to maintaining up-to-date customer information in a secure and efficient manner, which is vital for operational excellence and customer satisfaction.
 
 #### Query 15: [Description of Query 15]
-![Query 15](path_to_query_15_image.jpg)
+![Query 15](images/Query15.png)
 ##### Description:
 This stored procedure is intended to create a new account in the Account table. It performs the following actions:
 
